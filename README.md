@@ -11,7 +11,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./assets/images/screenshot.jpeg)
 
 
 ### Links
@@ -22,9 +22,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@jo-with-vision](https://www.frontendmentor.io/profile/Jo-with-vision)
+
 
 
 
