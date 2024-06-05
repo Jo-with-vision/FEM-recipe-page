@@ -66,6 +66,7 @@ h6 {
   --fs-main-headline: 2.5rem;
   --fs-main-headline-smaller: 1.875rem;
   --fs-small-heading: 1.25rem;
+  --fs-small-subheading: 1rem;
   --fs-subheading: 1.8rem;
   --fs-marker: 0.75rem;
   --ff-young-serif: "Young Serif", Serif;
@@ -138,7 +139,7 @@ h2 {
   }
 
   .recipe-intro__title {
-      font-size: var(--fs-main-headline);
+    font-size: var(--fs-main-headline);
   }
 
   .recipe-intro__img {
@@ -148,8 +149,13 @@ h2 {
   .recipe-nutrition {
     padding-bottom: 0;
   }
-}
 
+  .recipe-ingredients__title,
+  .recipe-instructions__title,
+  .recipe-nutrition__title {
+    font-size: var(--fs-subheading);
+  }
+}
 
 .recipe-prep {
   background-color: var(--clr-rose-white);
@@ -179,7 +185,6 @@ h2 {
 .recipe-nutrition__title {
   font-family: var(--ff-young-serif);
   font-weight: var(--fw-400);
-  font-size: var(--fs-subheading);
   color: var(--clr-nutmeg);
 }
 
